@@ -2,6 +2,8 @@
 
 Modelling football scores is the process of constructing a mathematical model which can be used to predict the results of football matches based on data from past games. It involves taking historical data about teams’ goals scored and conceded and using it to build a predictive model for future matches. This model can then be used to estimate the likelihood of a particular result, such as how likely a particular team is to win a certain game. Modelling football scores can be used for a number of different applications, such as predicting the outcome of an upcoming game or providing insights into team performance over an entire season.
 
+![](../images/modelling-kingsleague-scores-cover.png)
+
 ## Introduction
 
 Football data and analysis is a field of study that deals with the use of data, statistics, and analytics to gain insights into the game, the teams, and the players. This field can be used to improve the performance of a team, to identify recruitment targets, to identify tactical strategies, and to better understand the game. Football data and analysis also provide valuable insights into the game and its players, which can be used to inform decisions on team selection, player development, and team tactics. Football data and analysis can also help to understand the financial dynamics of the sport, including revenue, expenditure, and investment.
