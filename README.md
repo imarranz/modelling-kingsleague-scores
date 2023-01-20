@@ -2,7 +2,7 @@
 
 Modelling football scores is the process of constructing a mathematical model which can be used to predict the results of football matches based on data from past games. It involves taking historical data about teams’ goals scored and conceded and using it to build a predictive model for future matches. This model can then be used to estimate the likelihood of a particular result, such as how likely a particular team is to win a certain game. Modelling football scores can be used for a number of different applications, such as predicting the outcome of an upcoming game or providing insights into team performance over an entire season.
 
-![](../images/modelling-kingsleague-scores-cover.png)
+![](./images/modelling-kingsleague-scores-cover.png)
 
 ## Introduction
 
